@@ -1,4 +1,4 @@
-# Contrato Mãe – TARGET TEAL
+# Contrato Mãe – Target Teal
 
 XXXXXX, pessoa jurídica de direito privado, inscrita no CNPJ sob nº XXXXXXXX com sede em XXXXX, neste ato representada pelo proprietário, Sr. XXXXXX , nacionalidade, estado civil, profissão, portador do RG nº, e inscrito noCPF/MF sob o nº , residente e domiciliado em XXXXXX, adiante denominada simplesmente PARCEIRO 1
 
@@ -20,7 +20,7 @@ Todas as partes signatárias deste contrato tem como obrigação geral, trabalha
 
 O detalhamento das responsabilidades (referente a cada classe de ativo) que cada parte assume é realizado de maneira dinâmica no documento online disponível em: [https://app.glassfrog.com/organizations/4430](https://www.google.com/url?q=https://app.glassfrog.com/organizations/4430&sa=D&ust=1471819651027000&usg=AFQjCNGSzamK6Luvnl1yU1I1NA-NGV5RbA)
 
-Cada parte se compromete a dedicar o mínimo de 8h semanais no processo de energizar papéis internos, ou seja, aqueles que não oferecem serviços diretamente aos clientes. Esse montante pode mudar em comum acordo com todas a outras partes, sem a necessidade de uma mudança neste contrato, bastando estar registrado por escrito.
+Cada parte se compromete a dedicar o mínimo de **8h semanais** no processo de energizar papéis internos, ou seja, aqueles que não oferecem serviços diretamente aos clientes. Esse montante pode mudar em comum acordo com todas a outras partes, sem a necessidade de uma mudança neste contrato, bastando estar registrado por escrito.
 
 ### Cláusula 2.1 – Detalhamento – Administrçaão, Operação
 
