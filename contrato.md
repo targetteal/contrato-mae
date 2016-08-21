@@ -1,16 +1,16 @@
-# CONTRATO MÃE .- TARGET TEAL
+# Contrato Mãe – TARGET TEAL
 
 XXXXXX, pessoa jurídica de direito privado, inscrita no CNPJ sob nº XXXXXXXX com sede em XXXXX, neste ato representada pelo proprietário, Sr. XXXXXX , nacionalidade, estado civil, profissão, portador do RG nº, e inscrito noCPF/MF sob o nº , residente e domiciliado em XXXXXX, adiante denominada simplesmente PARCEIRO 1
 
 XXXXXX, pessoa jurídica de direito privado, inscrita no CNPJ sob nº XXXXXXXX com sede em XXXXX, neste ato representada pelo proprietário, Sr. XXXXXX , nacionalidade, estado civil, profissão, portador do RG nº, e inscrito noCPF/MF sob o nº , residente e domiciliado em XXXXXX, adiante denominada simplesmente PARCEIRO 2
 
-## CLÁUSULA PRIMEIRA  – OBJETO
+## Cláusula Primeira – Objeto
 
 Protocolam entre si a estipulação de uma parceria empresarial, sob risco recíproco, visando oferecer negócios de comum proveito, na área de treinamento e consultoria, seguindo o propósito XXXXXX.
 
 Esta parceria chamada Target Teal e se constituirá como uma rede de Empresas Individuais Autônomas.
 
-## CLÁUSULA SEGUNDA – RESPONSABILIDADES E OBRIGAÇÕES DAS PARTES
+## Cláusula Segunda – Responsasbilidades e obrigações das partes
 
 Todas as partes signatárias deste contrato tem como obrigação geral, trabalhar e contribuir para fortalecer os seguintes classes de ativos intangíveis da Target Teal:
 
@@ -22,7 +22,7 @@ O detalhamento das responsabilidades (referente a cada classe de ativo) que cada
 
 Cada parte se compromete a dedicar o mínimo de 8h semanais no processo de energizar papéis internos, ou seja, aqueles que não oferecem serviços diretamente aos clientes. Esse montante pode mudar em comum acordo com todas a outras partes, sem a necessidade de uma mudança neste contrato, bastando estar registrado por escrito.
 
-## CLAÚSULA 2.1  – DETALHAMENTO – ADMINISTRAÇÃO, OPERAÇÃO
+### Cláusula 2.1 – Detalhamento – Administrçaão, Operação
 
 As partes não constituirão empresa ou figura jurídica para ser dona de ativos ou vender serviços.
 
@@ -36,15 +36,15 @@ As decisões sobre a energização dos papeis no Círculo Geral serão feitas pe
 
 As partes deverão vender diretamente seus serviços para clientes e poderão firmar contratos entre si para criação de parcerias na venda de produtos e serviços.
 
-## CLÁUSULA TERCEIRA  – DIVISÃO DAS DESPESAS E GANHOS
+## Cláusula Terceira – Divisão das Despesas e Ganhos
 
 Todas as despesas incorridas no trabalho exercido pelos membros da rede para fortalecer ou crescer os ativos intangíveis, quando acordadas e definidas de maneira explicita em documento online ou e-mail, deverão ser registradas em um sistema online para garantir que todos os membros no decorrer de um trimestre possam equalizar seus investimentos.
 
-## CLÁUSULA QUARTA  – DURAÇÃO
+## Cláusula Quarta – Duração
 
-A parceria tem como prazo mínimo de 12 meses, sendo prorrogável automaticamente a cada ano.
+A parceria tem como prazo mínimo de **12 meses**, sendo **prorrogável automaticamente** a cada ano.
 
-## CLÁUSULA QUINTA  – RESCISÃO
+## Cláusula Quinta – Rescisão
 
 Caso algum membro da parceria desejar rescindir o contrato, bastará ele avisar com 30 dias de antecedência e equalizar todos os investimentos feitos até o mês vigente em relação ao membro com maior investimento feito até aquele momento.
 
@@ -56,7 +56,7 @@ Qualquer ativo tangível criado ou constituído dentro dos termos dessa parceria
 
 No caso de um membro falhar com sua obrigações da parceria ou infringir diretamente o que está acordado neste instrumento, ele poderá ser excluído de um novo contrato de parceria pelos demais. Nesse processo, somente quem ficar fora da nova parceria, se compromete a entregar todos os ativos que possui.
 
-## CLÁUSULA SEXTA  – DO SIGILO
+## Cláusula Sexta – Do Sigilo
 
 As Partes não revelarão a terceiros as Informações Confidenciais a que tiverem acesso, especialmente conteúdo de natureza sensível de clientes da Target Teal.
 
@@ -67,7 +67,7 @@ Todo o conteúdo revelado no site e no sistema público de arquivos estão fora 
 * Planilha de receitas, com valores agrupados por natureza da receita.
 * Outras informações que deverão ser aprovadas com antecedência pelo Processo Integrativo de Tomada de Decisão do Círculo Geral da Target Teal.
 
-## CLÁUSULA SÉTIMA  – SOLUÇÃO DE CONFLITOS
+## Cláusula Sétima – Solução de Conflitos
 
 Todas as partes se comprometem a resolver quaisquer conflitos, dúvidas ou controvérsias oriundos deste Contrato, primeiro internamente e depois com o uso de algum mediador externo, acordado entre as partes, sem o envolvimento de processos e custas legais.
 
