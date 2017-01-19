@@ -6,11 +6,11 @@ XXXXXX, pessoa jurídica de direito privado, inscrita no CNPJ sob nº XXXXXXXX c
 
 ## Cláusula Primeira – Objeto
 
-Protocolam entre si a estipulação de uma parceria empresarial, sob risco recíproco, visando oferecer negócios de comum proveito, na área de treinamento e consultoria, seguindo o propósito XXXXXX.
+Protocolam entre si a estipulação de uma parceria empresarial, sob risco recíproco, visando oferecer negócios de comum proveito, na área de treinamento e consultoria, seguindo o propósito de semear sistemas sociais evolutivos.
 
-Esta parceria chamada Target Teal e se constituirá como uma rede de Empresas Individuais Autônomas.
+Esta parceria chamada Target Teal se constituirá como uma rede de Empresas Individuais Autônomas. 
 
-## Cláusula Segunda – Responsasbilidades e obrigações das partes
+## Cláusula Segunda – Responsabilidades e obrigações das partes
 
 Todas as partes signatárias deste contrato tem como obrigação geral, trabalhar e contribuir para fortalecer os seguintes classes de ativos intangíveis da Target Teal:
 
@@ -36,9 +36,24 @@ As decisões sobre a energização dos papeis no Círculo Geral serão feitas pe
 
 As partes deverão vender diretamente seus serviços para clientes e poderão firmar contratos entre si para criação de parcerias na venda de produtos e serviços.
 
-## Cláusula Terceira – Divisão das Despesas e Ganhos
+## Cláusula Terceira – Contribuição para o Fundo Distribuído
 
-Todas as despesas incorridas no trabalho exercido pelos membros da rede para fortalecer ou crescer os ativos intangíveis, quando acordadas e definidas de maneira explicita em documento online ou e-mail, deverão ser registradas em um sistema online para garantir que todos os membros no decorrer de um trimestre possam equalizar seus investimentos.
+As partes contribuirão com 1% da sua receita bruta mensal advinda dos serviços prestados sob os termos desta parceria para o FUNDO DISTRIBUÍDO, registrando a receita e a dívida mês a mês em uma planilha online de controle. Nenhuma transferência bancária ou pagamento deverá ser feito a nenhuma das parte. A dívida acumulada tem caráter virtual e pode ser utilizada para financiar os ativos desta parceria.
+
+Junto com a contribuição, as partes acumularão um número de PONTOS DE INFLUÊNCIA equivalente ao valor contribuído cada mês. Os PONTOS DE INFLUÊNCIA são intransferíveis.
+
+Qualquer parte deste contrato poderá fazer uma proposta para consumir recursos do FUNDO DISTRIBUÍDO, tornando-se então o PROPONENTE daquela proposta. Para isso, o PROPONENTE deverá disponibilizar a proposta em um fórum acessível a todas outras partes, juntamente com os seus argumentos de como a proposta ajuda-o a expressar melhor o propósito dos seus papéis na governança da Target Teal ou o propósito da organização como um todo.
+
+Todos os membros, incluindo o PROPONENTE, podem financiar a proposta com os seus PONTOS DE INFLUÊNCIA já adquiridos. Cada ponto de influência equivale a 1 (um) Real. 
+
+Uma vez que o PROPONENTE estiver satisfeito com o montante investido, a proposta poderá ser encerrada. Neste momento, os PONTOS DE INFLUÊNCIA gastos são subtraídos das partes que financiaram a proposta. O PROPONENTE então pode selecionar uma das partes para se tornar o CONTRATANTE da proposta, conforme os critérios descritos abaixo.
+
+Somente as partes com dívida igual ou maior que o valor da proposta são elegíveis para tornarem-se o CONTRATANTE da proposta. Os critérios para seleção do CONTRATANTE são:
+
+1. O primeiro membro que declarou estar saindo desta parceria, se existente, OU;
+2. O membro desta parceria com que acumulou a maior dívida em relação ao FUNDO DISTRIBUÍDO.
+
+O CONTRATANTE selecionado deverá realizar o pagamento do serviço ou recurso especificado na proposta pelo PROPONENTE. No entanto, todos os trâmites, burocracias e procedimentos relacionados à contratação ou aquisição do serviço ou recurso são responsabilidade do PROPONENTE e não do CONTRATANTE.
 
 ## Cláusula Quarta – Duração
 
