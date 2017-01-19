@@ -22,7 +22,7 @@ O detalhamento das responsabilidades (referente a cada classe de ativo) que cada
 
 Cada parte se compromete a dedicar o mínimo de **8h semanais** no processo de energizar papéis internos, ou seja, aqueles que não oferecem serviços diretamente aos clientes. Esse montante pode mudar em comum acordo com todas a outras partes, sem a necessidade de uma mudança neste contrato, bastando estar registrado por escrito.
 
-### Cláusula 2.1 – Detalhamento – Administrçaão, Operação
+### Cláusula 2.1 – Detalhamento – Administrção, Operação
 
 As partes não constituirão empresa ou figura jurídica para ser dona de ativos ou vender serviços.
 
