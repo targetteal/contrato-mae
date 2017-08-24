@@ -57,15 +57,15 @@ A parceria tem como prazo mínimo de **12 meses**, sendo **prorrogável automati
 
 ## Cláusula Quinta – Rescisão
 
-Caso algum membro da parceria desejar rescindir o contrato, bastará ele avisar com 30 dias de antecedência e equalizar todos os investimentos feitos até o mês vigente em relação ao membro com maior investimento feito até aquele momento.
+Caso algum membro da parceria desejar rescindir o contrato, bastando ele avisar com 30 dias de antecedência a saída.
 
-Após a rescisão, o ex-membro da parceria perderá acesso aos sistemas compartilhados, e-mail, banco de contatos e arquivos de compartilhados dentro da Target Teal.
+Após a rescisão, o ex-membro da parceria perderá acesso aos sistemas compartilhados, e-mail, banco de contatos e arquivos privados compartilhados dentro da Target Teal.
 
 Os contatos já engajados por quem requisitou a rescisão poderão ser usados para a venda de serviços e produtos após o seu desligamento. Os outros contatos não poderão ser usados de maneira direta, ou seja, sem que esse contato apareça na rede pessoal de quem pediu o desligamento.
 
-Qualquer ativo tangível criado ou constituído dentro dos termos dessa parceria que o requisitante possuir, deverá ser entregue aos demais membros que permanecerão na parceria.
+Qualquer ativo tangível criado ou constituído dentro dos termos dessa parceria que o requisitante possuir deverá ser entregue aos demais membros que permanecerão na parceria.
 
-No caso de um membro falhar com sua obrigações da parceria ou infringir diretamente o que está acordado neste instrumento, ele poderá ser excluído de um novo contrato de parceria pelos demais. Nesse processo, somente quem ficar fora da nova parceria, se compromete a entregar todos os ativos que possui.
+No caso de um membro falhar com sua obrigações da parceria ou infringir diretamente o que está acordado neste instrumento, ele poderá ser excluído de um novo contrato de parceria pelos demais. Nesse processo, somente quem ficar fora da nova parceria se compromete a entregar todos os ativos que possui.
 
 ## Cláusula Sexta – Do Sigilo
 
