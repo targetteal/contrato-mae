@@ -38,7 +38,7 @@ As partes deverão vender diretamente seus serviços para clientes e poderão fi
 
 ## Cláusula Terceira – Contribuição para o Fundo Distribuído
 
-As partes contribuirão com 1% da sua receita bruta mensal advinda dos serviços prestados sob os termos desta parceria para o FUNDO DISTRIBUÍDO, registrando a receita e a dívida mês a mês em uma planilha online de controle. Nenhuma transferência bancária ou pagamento deverá ser feito a nenhuma das parte. A dívida acumulada tem caráter virtual e pode ser utilizada para financiar os ativos desta parceria.
+As partes contribuirão com 5% da sua receita bruta mensal advinda dos serviços prestados sob os termos desta parceria para o FUNDO DISTRIBUÍDO, registrando a receita e a dívida mês a mês em uma planilha online de controle. Nenhuma transferência bancária ou pagamento deverá ser feito a nenhuma das parte. A dívida acumulada tem caráter virtual e pode ser utilizada para financiar os ativos desta parceria.
 
 Junto com a contribuição, as partes acumularão um número de PONTOS DE INFLUÊNCIA equivalente ao valor contribuído cada mês. Os PONTOS DE INFLUÊNCIA são intransferíveis.
 
