@@ -6,7 +6,7 @@ XXXXXX, pessoa jurídica de direito privado, inscrita no CNPJ sob nº XXXXXXXX c
 
 ## Cláusula Primeira – Objeto
 
-Protocolam entre si a estipulação de uma parceria empresarial, sob risco recíproco, visando oferecer negócios de comum proveito, na área de treinamento e consultoria, seguindo o propósito de semear sistemas sociais evolutivos.
+Protocolam entre si a estipulação de uma parceria empresarial, sob risco recíproco, visando oferecer negócios de comum proveito, na área de treinamento e consultoria, seguindo o propósito de _semear sistemas sociais evolutivos_.
 
 Esta parceria chamada Target Teal se constituirá como uma rede de Empresas Individuais Autônomas. 
 
@@ -15,10 +15,10 @@ Esta parceria chamada Target Teal se constituirá como uma rede de Empresas Indi
 Todas as partes signatárias deste contrato tem como obrigação geral, trabalhar e contribuir para fortalecer os seguintes classes de ativos intangíveis da Target Teal:
 
 1.  Reputação
-2.  Know-how
+2.  Conhecimento
 3.  Rede de contatos e relações
 
-O detalhamento das responsabilidades (referente a cada classe de ativo) que cada parte assume é realizado de maneira dinâmica no documento online disponível em: [https://app.glassfrog.com/organizations/4430](https://www.google.com/url?q=https://app.glassfrog.com/organizations/4430&sa=D&ust=1471819651027000&usg=AFQjCNGSzamK6Luvnl1yU1I1NA-NGV5RbA)
+O detalhamento das responsabilidades (referente a cada classe de ativo) que cada parte assume é realizado de maneira dinâmica no documento online disponível em: [https://app.holaspirit.com/public/target-teal](https://app.holaspirit.com/public/target-teal).
 
 Cada parte se compromete a dedicar o mínimo de **8h semanais** no processo de energizar papéis internos, ou seja, aqueles que não oferecem serviços diretamente aos clientes. Esse montante pode mudar em comum acordo com todas a outras partes, sem a necessidade de uma mudança neste contrato, bastando estar registrado por escrito.
 
@@ -28,11 +28,13 @@ As partes não constituirão empresa ou figura jurídica para ser dona de ativos
 
 A Target Teal evitará acumular ativos físicos, pois isso pode atrapalhar o caráter rede da organização. Dessa maneira os membros da rede terão posse desses poucos ativos e recursos físicos compartilhados, porém sempre buscando uma posse distribuída. Os ativos físicos da Target Teal estarão registrados em sistemas online de maneira transparente para todos os membros da rede.
 
-Os processos de gestão e de tomada de decisão seguirão as regras estipuladas pela Constituição da Holacracia, versão 4.1, que pode ser encontrada aqui: [http://www.holacraciabrasil.com/wp-content/uploads/2015/10/Constituicaov41.pdf](https://www.google.com/url?q=http://www.holacraciabrasil.com/wp-content/uploads/2015/10/Constituicaov41.pdf&sa=D&ust=1471819651029000&usg=AFQjCNH0sT6vDIpOJhwlrR57cbdeaR8PpQ)
+Os processos de governança, gestão e de tomada de decisão seguirão as regras estipuladas pelo Game Book Organic Organization, versão 1, que pode ser encontrada aqui: [https://github.com/targetteal/organic-organization/releases/tag/v1.0](https://github.com/targetteal/organic-organization/releases/tag/v1.0).
 
-Havendo discordância entre o que é definido neste contrato e o que estipula a Constituição, prevalece o que é definido por este contrato assinado por todas as partes.
+Havendo discordância entre o que é definido neste contrato e o que estipula o Game Book, prevalece o que é definido por este contrato assinado por todas as partes.
 
-As decisões sobre a energização dos papeis no Círculo Geral serão feitas pelo Processo Integrativo de Tomada de Decisão nas Reuniões de Governança.
+As decisões sobre a energização dos papéis no Círculo Geral serão feitas pelo Processo Integrativo de Tomada de Decisão nas Reuniões de Governança.
+
+Este contrato não define um Elo Externo para o Círculo Geral. Cabe à estrutura organizacional (governança) da Target Teal determinar como as responsabilidades deste papel serão promulgadas no Círculo Geral da Target Teal. 
 
 As partes deverão vender diretamente seus serviços para clientes e poderão firmar contratos entre si para criação de parcerias na venda de produtos e serviços.
 
