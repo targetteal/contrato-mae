@@ -32,8 +32,6 @@ Os processos de governança, gestão e de tomada de decisão seguirão as regras
 
 Havendo discordância entre o que é definido neste contrato e o que estipula o Game Book, prevalece o que é definido por este contrato assinado por todas as partes.
 
-As decisões sobre a energização dos papéis no Círculo Geral serão feitas pelo Processo Integrativo de Tomada de Decisão nas Reuniões de Governança.
-
 Este contrato não define um Elo Externo para o Círculo Geral. Cabe à estrutura organizacional (governança) da Target Teal determinar como as responsabilidades deste papel serão promulgadas no Círculo Geral da Target Teal. 
 
 As partes deverão vender diretamente seus serviços para clientes e poderão firmar contratos entre si para criação de parcerias na venda de produtos e serviços.
