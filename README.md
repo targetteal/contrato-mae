@@ -40,13 +40,9 @@ As partes deverão vender diretamente seus serviços para clientes e poderão fi
 
 As partes contribuirão com 5% da sua receita bruta mensal advinda dos serviços prestados sob os termos desta parceria para o FUNDO DISTRIBUÍDO, registrando a receita e a dívida mês a mês em uma planilha online de controle. Nenhuma transferência bancária ou pagamento deverá ser feito a nenhuma das parte. A dívida acumulada tem caráter virtual e pode ser utilizada para financiar os ativos desta parceria.
 
-Junto com a contribuição, as partes acumularão um número de PONTOS DE INFLUÊNCIA equivalente ao valor contribuído cada mês. Os PONTOS DE INFLUÊNCIA são intransferíveis.
+Qualquer parte deste contrato poderá fazer uma proposta para consumir recursos do FUNDO DISTRIBUÍDO, tornando-se então o PROPONENTE daquela proposta. Cabe à estrutura organizacional da Target Teal (governança) definir em que condições essa proposta poderá ser feita e como deverá ser aprovada.
 
-Qualquer parte deste contrato poderá fazer uma proposta para consumir recursos do FUNDO DISTRIBUÍDO, tornando-se então o PROPONENTE daquela proposta. Para isso, o PROPONENTE deverá disponibilizar a proposta em um fórum acessível a todas outras partes, juntamente com os seus argumentos de como a proposta ajuda-o a expressar melhor o propósito dos seus papéis na governança da Target Teal ou o propósito da organização como um todo.
-
-Todos os membros, incluindo o PROPONENTE, podem financiar a proposta com os seus PONTOS DE INFLUÊNCIA já adquiridos. Cada ponto de influência equivale a 1 (um) Real. 
-
-Uma vez que o PROPONENTE estiver satisfeito com o montante investido, a proposta poderá ser encerrada. Neste momento, os PONTOS DE INFLUÊNCIA gastos são subtraídos das partes que financiaram a proposta. O PROPONENTE então pode selecionar uma das partes para se tornar o CONTRATANTE da proposta, conforme os critérios descritos abaixo.
+O PROPONENTE pode selecionar uma das partes para se tornar o CONTRATANTE da proposta, conforme os critérios descritos abaixo.
 
 Somente as partes com dívida igual ou maior que o valor da proposta são elegíveis para tornarem-se o CONTRATANTE da proposta. Os critérios para seleção do CONTRATANTE são:
 
