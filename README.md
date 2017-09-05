@@ -1,8 +1,8 @@
 # Contrato Mãe – Target Teal
 
-XXXXXX, pessoa jurídica de direito privado, inscrita no CNPJ sob nº XXXXXXXX com sede em XXXXX, neste ato representada pelo proprietário, Sr. XXXXXX , nacionalidade, estado civil, profissão, portador do RG nº, e inscrito noCPF/MF sob o nº , residente e domiciliado em XXXXXX, adiante denominada simplesmente PARCEIRO 1
+XXXXXX, pessoa jurídica de direito privado, inscrita no CNPJ sob nº XXXXXXXX com sede em XXXXX, neste ato representada pelo proprietário, Sr. XXXXXX , nacionalidade, estado civil, profissão, portador do RG nº, e inscrito noCPF/MF sob o nº , residente e domiciliado em XXXXXX, adiante denominada simplesmente PARCEIRO 1.
 
-XXXXXX, pessoa jurídica de direito privado, inscrita no CNPJ sob nº XXXXXXXX com sede em XXXXX, neste ato representada pelo proprietário, Sr. XXXXXX , nacionalidade, estado civil, profissão, portador do RG nº, e inscrito noCPF/MF sob o nº , residente e domiciliado em XXXXXX, adiante denominada simplesmente PARCEIRO 2
+XXXXXX, pessoa jurídica de direito privado, inscrita no CNPJ sob nº XXXXXXXX com sede em XXXXX, neste ato representada pelo proprietário, Sr. XXXXXX , nacionalidade, estado civil, profissão, portador do RG nº, e inscrito noCPF/MF sob o nº , residente e domiciliado em XXXXXX, adiante denominada simplesmente PARCEIRO 2.
 
 ## Cláusula Primeira – Objeto
 
@@ -42,12 +42,13 @@ As partes contribuirão com 5% da sua receita bruta mensal advinda dos serviços
 
 Qualquer parte deste contrato poderá fazer uma proposta para consumir recursos do FUNDO DISTRIBUÍDO, tornando-se então o PROPONENTE daquela proposta. Cabe à estrutura organizacional da Target Teal (governança) definir em que condições essa proposta poderá ser feita e como deverá ser aprovada.
 
-O PROPONENTE pode selecionar uma das partes para se tornar o CONTRATANTE da proposta, conforme os critérios descritos abaixo.
+O PROPONENTE deve selecionar uma das partes para se tornar o CONTRATANTE da proposta, conforme os critérios descritos abaixo.
 
 Somente as partes com dívida igual ou maior que o valor da proposta são elegíveis para tornarem-se o CONTRATANTE da proposta. Os critérios para seleção do CONTRATANTE são:
 
 1. O primeiro membro que declarou estar saindo desta parceria, se existente, OU;
-2. O membro desta parceria com que acumulou a maior dívida em relação ao FUNDO DISTRIBUÍDO.
+2. O próprio PROPONENTE, caso ele tenha dívida igual ou maior que o valor da proposta, OU;
+3. O membro desta parceria com que acumulou a maior dívida em relação ao FUNDO DISTRIBUÍDO.
 
 O CONTRATANTE selecionado deverá realizar o pagamento do serviço ou recurso especificado na proposta pelo PROPONENTE. No entanto, todos os trâmites, burocracias e procedimentos relacionados à contratação ou aquisição do serviço ou recurso são responsabilidade do PROPONENTE e não do CONTRATANTE.
 
@@ -57,7 +58,7 @@ A parceria tem como prazo mínimo de **12 meses**, sendo **prorrogável automati
 
 ## Cláusula Quinta – Rescisão
 
-Caso algum membro da parceria desejar rescindir o contrato, bastando ele avisar com 30 dias de antecedência a saída.
+Caso algum membro da parceria desejar rescindir o contrato, basta ele avisar com 30 dias de antecedência a saída.
 
 Após a rescisão, o ex-membro da parceria perderá acesso aos sistemas compartilhados, e-mail, banco de contatos e arquivos privados compartilhados dentro da Target Teal.
 
