@@ -46,14 +46,15 @@ Ao contrário dos _Parceiros em Transição_, os _Parceiros Titulares_ retêm a 
 
 1. Convidar novos parceiros para fazerem parte desta parceria como _Parceiros em Transição_ (inclusão);
 2. Promover _Parceiros em Transição_ para _Parceiros Titulares_ (promoção);
+3. Excluir _Parceiros em Transição_;
 
-Em ambos os casos, o parceiro que busca a mudança deverá verificar se nenhum outro Parceiro Titular possui objeção à alteração proposta. Se houverem objeções, elas deverão ser integradas normalmente, como se fossem uma proposta do Modo Adaptar do _Círculo Geral_ da *Target Teal*, conforme descrito no Livro de Regras da Organização Orgânica, versão estabelecida na cláusula 2.1.
+Em todos os casos acima descritos, o parceiro que busca a mudança deverá verificar se nenhum outro Parceiro Titular possui objeção à alteração proposta. Se houverem objeções, elas deverão ser integradas normalmente, como se fossem uma proposta do Modo Adaptar do _Círculo Geral_ da *Target Teal*, conforme descrito no Livro de Regras da Organização Orgânica, versão estabelecida na cláusula 2.1.
 
-A estrutura organizacional da *Target Teal* poderá definir ou restringir como ou em que condições os _Parceiros Titulares_ poderão fazer estas alterações de inclusão ou promoção de _Parceiros em Transição_.
+A estrutura organizacional da *Target Teal* poderá definir ou restringir como ou em que condições os _Parceiros Titulares_ poderão fazer estas alterações de inclusão, promoção ou exclusão de _Parceiros em Transição_.
 
-# Cláusula 3 – Contribuição para o _Fundo Distribuído_
+# Cláusula 3 – Contribuição para o Fundo Distribuído
 
-As partes contribuirão com 5% da sua receita bruta mensal advinda dos serviços prestados sob os termos desta parceria para o "_Fundo Distribuído__, registrando a receita e a dívida mês a mês em uma planilha online de controle. Nenhuma transferência bancária ou pagamento deverá ser feito a nenhuma das parte. A dívida acumulada tem caráter virtual e pode ser utilizada para financiar os ativos desta parceria.
+As partes contribuirão com 5% da sua receita bruta mensal advinda dos serviços prestados sob os termos desta parceria para o "_Fundo Distribuído_", registrando a receita e a dívida mês a mês em uma planilha online de controle. Nenhuma transferência bancária ou pagamento deverá ser feito a nenhuma das parte. A dívida acumulada tem caráter virtual e pode ser utilizada para financiar os ativos desta parceria.
 
 Qualquer parte deste contrato poderá fazer uma proposta para consumir recursos do _Fundo Distribuído_, tornando-se então o "_Proponente_" daquela proposta. Cabe à estrutura organizacional da *Target Teal* (governança) definir em que condições essa proposta poderá ser feita e como deverá ser aprovada.
 
