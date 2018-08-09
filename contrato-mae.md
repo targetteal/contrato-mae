@@ -2,9 +2,7 @@
 
 As partes abaixo descritas celebram o contrato de formação da Organização-Rede *Target Teal* com o propósito de **semear sistemas sociais evolutivos**.
 
-Parceiro Titular, ....
-
-Parceiro em Transição, ....
+Parceiro Titular, ...
 
 # Cláusula 1 – Objeto
 
@@ -40,17 +38,19 @@ As partes deverão vender diretamente seus serviços para clientes e poderão fi
 
 ## Cláusula 2.2 - Parceiros Titulares e Parceiros em Transição
 
-As partes deste contrato estão classificadas como "_Parceiros Titulares_" ou "_Parceiros em Transição_", tendo direitos diferenciados dependendo da categoria definida no início do contrato.
+As partes integrantes da parceria Target Teal estão classificadas como "_Parceiros Titulares_" ou "_Parceiros em Transição_", tendo direitos diferenciados dependendo da categoria estabelecida.
 
 Ao contrário dos _Parceiros em Transição_, os _Parceiros Titulares_ retêm a autoridade exclusiva de:
 
 1. Convidar novos parceiros para fazerem parte desta parceria como _Parceiros em Transição_ (inclusão);
-2. Promover _Parceiros em Transição_ para _Parceiros Titulares_ (promoção);
-3. Excluir _Parceiros em Transição_;
+2. Encerrar a relação com _Parceiros em Transição_ (encerramento);
+3. Promover _Parceiros em Transição_ para _Parceiros Titulares_ (promoção);
 
-Em todos os casos acima descritos, o parceiro que busca a mudança deverá verificar se nenhum outro Parceiro Titular possui objeção à alteração proposta. Se houverem objeções, elas deverão ser integradas normalmente, como se fossem uma proposta do Modo Adaptar do _Círculo Geral_ da *Target Teal*, conforme descrito no Livro de Regras da Organização Orgânica, versão estabelecida na cláusula 2.1.
+No caso de inclusão (item 1), o _Parceiro Titular_ que busca a mudança deverá verificar se nenhum outro _Parceiro Titular_ possui objeção à alteração proposta. Se houverem objeções, elas deverão ser integradas normalmente, como se fossem uma proposta do Modo Adaptar do _Círculo Geral_ da *Target Teal*, conforme descrito no Livro de Regras da Organização Orgânica, versão estabelecida na cláusula 2.1.
 
-A estrutura organizacional da *Target Teal* poderá definir ou restringir como ou em que condições os _Parceiros Titulares_ poderão fazer estas alterações de inclusão, promoção ou exclusão de _Parceiros em Transição_.
+No caso de encerramento ou promoção de _Parceiros em Transição_ (itens 2 e 3), o _Parceiro Titular_ que busca a mudança deverá verificar se todos os demais _Parceiros Titulares_ acreditam que a mudança irá beneficiar a *Target Teal* e os atuais _Parceiros Titulares_. Caso algum _Parceiro Titular_ vete a proposta, a relação do _Parceiro em Transição_ permanece igual, até que o _Parceiro Titular_ que vetou mude a sua posição ou que uma nova proposta seja feita.
+
+A estrutura organizacional da *Target Teal* poderá definir ou restringir como ou em que condições os _Parceiros Titulares_ poderão fazer estas alterações de inclusão, promoção ou encerramento da relação com _Parceiros em Transição_. No entanto, se houverem contradições entre o que diz este contrato e a estrutura organizacional da *Target Teal*, este contrato sempre prevalece.
 
 # Cláusula 3 – Contribuição para o Fundo Distribuído
 
@@ -108,4 +108,4 @@ PARCEIRO 1
 Parceiro Titular
 ________________________________
 PARCEIRO 2
-Parceiro em Transição
+Parceiro Titular
